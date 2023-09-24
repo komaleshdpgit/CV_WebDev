@@ -1,0 +1,196 @@
+body {
+    text-align: center;
+    list-style-position: inside;
+    /* background-color:  white; */
+    background-color: #e4f9f7;
+}
+.bodyDiv{
+     background-color: #e4f9f7;
+}
+
+.Intro{
+    background-color: #EFFFFD;
+    position: relative;
+}
+.topleft{
+    position: relative;
+    margin-right: 50%;
+    display: inline-block;
+}
+.topright{
+    position: absolute;
+    margin: 10% auto;
+}
+.info{
+    position: relative;
+    width: 50%;
+    margin: 0 auto 10px auto;
+}
+
+.bottomcloud{
+    position: absolute;
+    margin-bottom: 300px;
+    
+}
+.mountainimg{
+    position: relative;
+}
+.Edu{
+    position: relative;
+    display: flex;
+    background-color: #e4f9f7;
+}
+
+.eduimg{
+    width: 27%;
+    /* display: flex; */
+    margin: 3% 2%;
+    /* position: absolute; */
+}
+.btechInfo{
+    margin: auto;
+    
+}
+
+.Projects{
+    position: relative;
+    background-color: #e4f9f7;
+    display: flex;
+}
+
+.projectImg{
+    /* position: absolute; */
+    display: flex;
+    width: 20%;
+    margin: 3% 2%;
+}
+
+.projectInfo{
+    margin: 3% 3%;
+    
+}
+
+.EC{
+    background-color: #e4f9f7;
+}
+
+.skills{
+    background-color:#e4f9f7;
+    display: flex;
+
+}
+
+.skillsImg{
+    margin: 3% 3%;
+
+}
+
+.skillsTable{
+    text-align: left;
+    margin: auto;
+
+}
+
+.Footer{
+    background-color: #7befe5;
+    /* text-align: center; */
+    display: flex;
+    /* margin: auto; */
+    text-align: center;
+    padding: 20px;
+}
+
+.footerItems{
+    display: flex;
+    margin: auto;
+}
+
+
+.btn {
+        font-size:1em;
+        font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+        width:auto;
+        margin: 10px 10px 10px 10px;
+        padding: 5px 10px;
+        height:38px;
+        margin: 2% 3%;
+        display: flex;
+        text-decoration: none;
+        border-width:1px;
+        color:#fff;
+        border-color:rgba(224, 243, 227, 1);
+        font-weight:bold;
+        font-style:italic;
+        border-top-left-radius:28px;
+        border-top-right-radius:28px;
+        border-bottom-left-radius:28px;
+        border-bottom-right-radius:28px; 
+        text-transform: none;
+        text-decoration: none;
+        text-shadow: 1px 1px 0px #2f6627;
+        background:linear-gradient(rgba(111, 129, 197, 1), rgba(222, 233, 216, 1));
+      }
+  
+  .buttonClass:hover {
+    background: linear-gradient(rgba(254, 255, 253, 1), rgba(162, 162, 212, 1));
+  }
+                
+
+
+hr{
+    width: 5%;
+    border: dotted gray 6px;
+    border-top: 2px;
+    margin: 5em auto;
+}
+
+h1 {
+    color: #66bfbf;
+    font-family: 'Pacifico', cursive;
+
+}
+
+h3{
+    color: #5ac1c1;
+    font-family: 'Merriweather', serif;
+
+}
+
+.Footer {
+    background-color: #f0f0f0; /* Set your desired background color */
+   
+  }
+  
+  .footerItems {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .btn-group {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* .btn {
+    margin: 5px;
+    text-decoration: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+  } */
+  
+  .link-group {
+    display: flex;
+    /* justify-content: center; */
+  }
+  
+  .footer-link {
+    margin: 5px;
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+
+  
